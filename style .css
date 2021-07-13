@@ -1,0 +1,38 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+input {
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+    border: solid 2px #BBB;
+}
+div {
+    margin:10px 0px;
+}
+button{
+    padding:10px;
+    background-color: rgb(124, 16, 16);
+    color: #FFFFFF;
+    border: 0px;
+    cursor:pointer;
+    border-radius: 15px;
+    margin-left: 70px;
+}
+body {
+    font-family: arial;
+    
+}
+#output {
+    background-color:#F9F9F9;
+    padding:10px;
+    width: 100%;
+    margin-top:20px;
+    line-height:30px;
+}
+.hide {
+    display:none;
+}
+.show {
+    display:block;
+}
